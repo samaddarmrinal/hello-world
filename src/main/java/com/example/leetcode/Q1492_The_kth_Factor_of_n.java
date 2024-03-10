@@ -1,6 +1,6 @@
 package com.example.leetcode;
 
-public class The_kth_Factor_of_n_1492 {
+public class Q1492_The_kth_Factor_of_n {
 
     //You are given two positive integers n and k. A factor of an integer n is
 //defined as an integer i where n % i == 0.
